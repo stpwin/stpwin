@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'm **Win** and I'm a Computer Science student.
+
+🧑 About me:
+----------
+- 💚 Love **Arduino**, **Network**
+- 🔭 I’m currently working on **IT management system project (.NET)**
+- 🤔 I’m looking for help with **Design pattern for desktop app with standalone database like MS Access (.NET)**
+- 🌱 I’m currently learning **Life and Nature**
+
+
+⚡ Fun fact:
+----------
+- no codin' no debuggin' right?
 <!--
 **stpwin/stpwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
