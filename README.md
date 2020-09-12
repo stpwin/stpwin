@@ -5,7 +5,7 @@ I'm **Win** and I'm a Computer Science student.
 🧑 About me:
 ----------
 - 💚 Love **Arduino**, **Network**
-- 🔭 I’m currently working on **IT management system project (.NET)**
+- 🔭 I’m currently working on **IT management system project (.NET)**, **Clinic Technology for Lampang Rajabhat University (react.js+redux, php slim)**
 - 🤔 I’m looking for help with **Design pattern for desktop app with standalone database like MS Access (.NET)**
 - 🌱 I’m currently learning **Life and Nature**
 
