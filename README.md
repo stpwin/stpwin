@@ -5,10 +5,17 @@ I'm **Win** and I'm a Computer Science student.
 🧑 About me:
 ----------
 - 💚 Love **Arduino**, **Network**
-- 🔭 I’m currently working on **IT management system project (.NET)**, **Clinic Technology for Lampang Rajabhat University (react.js+redux, php slim)**
-- 🤔 I’m looking for help with **Design pattern for desktop app with standalone database like MS Access (.NET)**
-- 🌱 I’m currently learning **Life and Nature**
+- 🔭 I’m currently working on **IT management system project (.NET)**, **Clinic Technology for Lampang Rajabhat University (React.js+Redux+PHP+Firebase)**
+- 🤔 I’m looking for work.
+- 🌱 I’m currently learning **Life**
 
+💠 Programming Languages:
+----------
+- ✔ Javascript + HTML + CSS => React.js + Hook + Redux + Node.js + Express.js + Mongodb + RESTFul + JWT + SemanticUI + Bootstrap 4 + Firebase + GCP
+- ✔ PHP => Pure PHP + OOP + MySQL Relation/Non-relation, Indexed, Foreign key, Trigger
+- ✔ C#, VB[.NET] => Class + Structure + PInvoke
+- ✔ C/C++ => Arduino + IoT + Game h*cking
+- ✔ Python => Network programming
 
 ⚡ Fun fact:
 ----------
