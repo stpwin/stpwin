@@ -5,8 +5,6 @@ I'm **Win** and I'm a Computer Science student.
 🧑 About me:
 ----------
 - 💚 Love **Arduino**, **Network**
-- 🔭 I’m currently working on **IT management system project (.NET)**, **Clinic Technology for Lampang Rajabhat University (React.js+Redux+PHP+Firebase)**
-- 🤔 I’m looking for work.
 - 🌱 I’m currently learning **Life**
 
 💠 Programming Languages:
