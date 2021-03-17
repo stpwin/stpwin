@@ -9,15 +9,12 @@ I'm **Win** and I'm a Computer Science student.
 
 💠 Programming Languages:
 ----------
-- ✔ Javascript + HTML + CSS => React.js + Hook + Redux + Node.js + Express.js + Mongodb + RESTFul + JWT + SemanticUI + Bootstrap 4 + Firebase + GCP
-- ✔ PHP => Pure PHP + OOP + MySQL Relation/Non-relation, Indexed, Foreign key, Trigger
+- ✔ Javascript + HTML + CSS => React.js + Hook + Redux + Node.js + Express.js + (Mongodb, Postgres) + RESTful + JWT + Firebase + GCP + AWS*
+- ✔ PHP => Pure PHP + OOP + MySQL Relation/Non-relation Database
 - ✔ C#, VB[.NET] => Class + Structure + PInvoke
 - ✔ C/C++ => Arduino + IoT + Game h*cking
 - ✔ Python => Network programming
 
-⚡ Fun fact:
-----------
-- no codin' no debuggin' right?
 <!--
 **stpwin/stpwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
