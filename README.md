@@ -7,19 +7,24 @@ Cat lover.<br>
 🧑 About me:
 ----------
 - 🐱 I'm 25 years old.
-- 🌱 I’m currently a Software Engineer at <a href="https://www.codemonday.com">CODEMONDAY</a> Co.,Ltd
+- 🌱 I’m currently working on Software Engineer at <a href="https://www.codemonday.com/">CODEMONDAY Co.,Ltd</a>
 
 💠 Programming Languages:
 ----------
-- ✔ JavaScript + HTML + CSS => React.js + Hook + Redux + Node.js + Express.js + (Mongodb, Postgres) + RESTful + JWT + Firebase + GCP + AWS*
-- ✔ PHP => Pure PHP + OOP + MySQL Relation/Non-relation Database
-- ✔ C#, VB[.NET] => Class + Structure + PInvoke
-- ✔ C/C++ => Arduino + IoT + Game h*cking
-- ✔ Python => Network programming
+- ✔ JavaScript + HTML + CSS
+- ✔ PHP
+- ✔ C#, VB[.NET]
+- ✔ C/C++
+- ✔ Python
 
 🥞 Experience and Technologies Stack:
+----------
 - 2 years Node.js
 - 2 years React.js
+
+📫 How to reach me:
+----------
+<a href="https://www.linkedin.com/in/sittiporn-kawee-2803bb205/">LinkedIn</a>
 <!--
 **stpwin/stpwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
